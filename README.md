@@ -3,7 +3,7 @@
 > Software Engineer
 
 
-<img src="https://komarev.com/ghpvc/?username=abdulazeez001" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=abdulazeez001" alt="abdulazeez001" />
 
 <div>
  <p>
@@ -21,9 +21,11 @@ I have excellent design & coding skills, as well as an ability to convert requir
 - 📱 &nbsp;Programming Language:&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![Golang](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-0A1A2F?style=flat&logo=express)
+  ![Golang](https://img.shields.io/badge/-Golang-0A1A2F?style=flat&logo=go)
   ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
   ![Flask](https://img.shields.io/badge/-Flask-0A1A2F?style=flat&logo=flask)
 - 🌐 &nbsp;Frontend:&nbsp;
